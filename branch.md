@@ -2,7 +2,7 @@
 
 Uma branch é uma ramificação de um projeto, ao invés de alterar linha "main" uma branch é criada para criar um ambiente que possa ser alterado sem a possibilidade de quebrar alguma funcionalidade séria.
 
-´´´
+```
 	 _____@commit_____@commit_______@commit____________ Branch "Teste"
 	/
 
