@@ -5,3 +5,13 @@ Git é uma ferramenta de repositório e controle de versão lançada em 2005, cr
 O git funciona por uma estrutura de árvore, ou linha, exisitindo um repositório principal chamado de MAIN (Antigamente MASTER), essa "branch" pode ser duplicada, clonada e alterada por múltiplas pessoas ao mesmo tempo, além de oferecer um retorno para uma versão antiga caso um repostório local (ou seja clonado em uma máquina) esteja disponível.
 
 O fluxo principal do git é baseado em alterar, examinar o histórico e adicionar mudanças a branchs secundárias e a main, colaborando com outros que realizam os mesmos passos.
+
+O git utiliza principalmente o prompt de comando para a navegação entre diretórios, mas utiliza de comandos próprios para a manipulação própria da ferramenta, exemplo de um ciclocomum de git seria:
+
+- git init (Inciializa o git no diretório)
+
+- git add(adiciona os arquivos e pastas do diretório a branch local)
+
+- git commit -m (realiza um "commit", se compromentendo a alterar aquilo que foi adicionado ou removido
+
+- git push -u origin main (altera os arquivos no repositório origem, na branch main)
