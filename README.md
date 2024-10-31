@@ -10,8 +10,8 @@ O git utiliza principalmente o prompt de comando para a navegação entre diret�
 
 - git init (Inciializa o git no diretório)
 
-- git add(adiciona os arquivos e pastas do diretório a branch local)
+- git add . (adiciona os arquivos e pastas do diretório a branch local, o ponto sinaliznado para adicionar todos os arquivos a branch temporária)
 
-- git commit -m (realiza um "commit", se compromentendo a alterar aquilo que foi adicionado ou removido
+- git commit -m (realiza um "commit", se compromentendo a alterar aquilo que foi adicionado ou removido)
 
 - git push -u origin main (altera os arquivos no repositório origem, na branch main)
