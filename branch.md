@@ -10,7 +10,7 @@ Uma branch é uma ramificação de um projeto, ao invés de alterar linha "main"
 
         \_________@commit______@commit___________/ Branch "Teste" (Merged)
 
-´´´
+```
 
 - git branch name (cria uma branch)
 
@@ -21,3 +21,15 @@ Uma branch é uma ramificação de um projeto, ao invés de alterar linha "main"
 - git branch -v (mostra as mudancasdas branchs)
 
 - git branch -d nome (deleta a branch, se a flag -d for escrita em maiúsculo "-D" a remoção será deletada sem perguntar)
+
+- git reset -flag (Reseta o código para um ponto anterior)
+## Nomenclatura
+
+nomes de branch em snake-case
+
+- feature - se é alguma nova funcionalidade
+
+- fix - se está para consertar um erro da main
+-
+- test - se é para teste
+
