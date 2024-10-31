@@ -8,7 +8,7 @@ O fluxo principal do git é baseado em alterar, examinar o histórico e adiciona
 
 O git utiliza principalmente o prompt de comando Bash para a navegação entre diretórios, mas utiliza de comandos próprios para a manipulação própria da ferramenta, exemplo de um ciclo comum de git seria:
 
-- git init (Inciializa o git no diretório)
+- git init (Incializa o git no diretório)
 
 - git add . (adiciona os arquivos e pastas do diretório a branch local, o ponto sinalizando para adicionar todos os arquivos a branch temporária)
 
