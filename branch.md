@@ -4,7 +4,9 @@ Uma branch é uma ramificação de um projeto, ao invés de alterar linha "main"
 
  _____@_____@_______@____________ Branch
 /
+
 @-------------@---------------------@---------------------- Main
+
         \_________@______@___________/ Branch (Merged)
 
 
