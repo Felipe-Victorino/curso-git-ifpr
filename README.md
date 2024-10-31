@@ -6,7 +6,7 @@ O git funciona por uma estrutura de árvore, ou linha, exisitindo um repositóri
 
 O fluxo principal do git é baseado em alterar, examinar o histórico e adicionar mudanças a branchs secundárias e a main, colaborando com outros que realizam os mesmos passos.
 
-O git utiliza principalmente o prompt de comando para a navegação entre diretórios, mas utiliza de comandos próprios para a manipulação própria da ferramenta, exemplo de um ciclocomum de git seria:
+O git utiliza principalmente o prompt de comando Bash para a navegação entre diretórios, mas utiliza de comandos próprios para a manipulação própria da ferramenta, exemplo de um ciclo comum de git seria:
 
 - git init (Inciializa o git no diretório)
 
