@@ -25,11 +25,11 @@ Uma branch é uma ramificação de um projeto, ao invés de alterar linha "main"
 - git reset -flag (Reseta o código para um ponto anterior)
 ## Nomenclatura
 
-nomes de branch em snake-case
+Nomes de branch em snake-case
 
 - feature - se é alguma nova funcionalidade
 
 - fix - se está para consertar um erro da main
--
+
 - test - se é para teste
 
