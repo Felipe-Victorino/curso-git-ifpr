@@ -16,7 +16,8 @@ O git utiliza principalmente o prompt de comando Bash para a navegação entre d
 - git commit -m (realiza um "commit", se compromentendo a alterar aquilo que foi adicionado ou removido)
 
 - git push -u origin main (altera os arquivos no repositório origem, na branch main)
-# Branch
+
+# GIT BRANCH
 
 Uma branch é uma ramificação de um projeto, ao invés de alterar linha "main" uma branch é criada para criar um ambiente que possa ser alterado sem a possibilidade de quebrar alguma funcionalidade séria.
 
@@ -36,11 +37,12 @@ Uma branch é uma ramificação de um projeto, ao invés de alterar linha "main"
 
 - git branch (lista as branchs)
 
-- git branch -v (mostra as mudancasdas branchs)
+- git branch -v (mostra as mudancas das branchs)
 
 - git branch -d nome (deleta a branch, se a flag -d for escrita em maiúsculo "-D" a remoção será deletada sem perguntar)
 
 - git reset -flag (Reseta o código para um ponto anterior)
+
 ## Nomenclatura
 
 nomes de branch em snake-case
@@ -53,7 +55,7 @@ nomes de branch em snake-case
 
 - git push -u origin main (altera os arquivos no repositório origem, na branch main)
 
-# GIT Resetting
+# GIT RESETTING
 
 Para realizar controle de versões e especialmente o rollback de versões, se utiliza o comando git reset.
 
