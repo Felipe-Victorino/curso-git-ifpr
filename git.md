@@ -47,5 +47,7 @@ nomes de branch em snake-case
 - feature - se é alguma nova funcionalidade
 
 - fix - se está para consertar um erro da main
--
+
 - test - se é para teste
+=======
+- git push -u origin main (altera os arquivos no repositório origem, na branch main)
